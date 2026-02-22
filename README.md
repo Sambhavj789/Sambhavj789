@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <h1 align="center">Hi 👋, I'm Sambhav Jain</h1>
-<h3 align="center">🚀 MERN Stack Developer | BCA Final Year Student</h3>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies" />
@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 🎓 BCA Final Year Student  
+- Mern Freelancer
 - 💻 Passionate MERN Stack Developer  
 - 🚀 Building Scalable Full Stack Applications  
 - 🌱 Currently Exploring AI & Advanced Backend Systems  
