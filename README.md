@@ -14,7 +14,7 @@
 - 💻 Passionate MERN Stack Developer  
 - 🚀 Building Scalable Full Stack Applications  
 - 🌱 Currently Exploring AI & Advanced Backend Systems  
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **sambhavjain8840@gmail.com**
 
 ---
 
